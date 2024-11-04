@@ -21,3 +21,8 @@ Oneup! is an HTML5-based arcade game where the player navigates through increasi
 
 - **Languages**: HTML and JavaScript
 - **Framework**: Built with the Phaser development framework
+
+## How to Oneup!?
+- Clone the repository  
+- Open the folder through an code editor  
+- Test the program locally through Live server etc.  
